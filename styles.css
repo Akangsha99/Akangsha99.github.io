@@ -1,0 +1,94 @@
+a[href^="http"] {
+  padding-left: 19px;
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+a[href*="github.com/Akangsha99"]{
+  background-image: url(https://www.google.com/s2/favicons?domain=github.com);
+}
+a[href*="facebook.com"]{
+  background-image: url(https://www.google.com/s2/favicons?domain=facebook.com);
+}
+a[href*="gmail.com"]{
+  background-image: url(https://www.google.com/s2/favicons?domain=gmail.com);
+}
+a[href*="linkedin.com/in/akangsha-goswami-0949b21ab"]{
+  background-image: url(https://www.google.com/s2/favicons?domain=LinkedIn.com);
+}
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+/*navbar*/
+nav {
+height: 8rem;
+}
+.navbar-brand {
+  font-size: 3vw;
+}
+.nav-link {
+  font-size: 1.75vw;
+}
+
+.img1 {
+ width: 100%;
+ height: auto;
+ padding: 1vw 1vw 1vw 7vw;
+}
+.data {
+   padding-top: 2%;
+   font-size: 1.5vw;
+   font-family: "Montserrat";
+   text-align: left;
+}
+/*Education*/
+
+.edu-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* experience Section */
+
+#experience {
+  background-color: #a98b98; 
+}
+
+.exp-text {
+  font-size: 2vw;
+  line-height: 1;
+}
+
+.exp-image {
+  width: 35%;
+  height: auto:
+
+}
+#exp-carousel.carousel.exp-image {
+max-width: 250px; !important
+}
+
+.exp-sec {
+height: 30vw;
+}
+.carousel-item {
+ heigth: 30vw;
+}
+.carousel-item {
+width: 100%;
+height: auto;
+
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+#form-style {
+  text-align: center;
+  line-width: 1.5;
+  left: 50%;
+ }
